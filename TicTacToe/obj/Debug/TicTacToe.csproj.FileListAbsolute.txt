@@ -1,0 +1,15 @@
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Sites\Visual Studio Applications\Final-Fiorante\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
